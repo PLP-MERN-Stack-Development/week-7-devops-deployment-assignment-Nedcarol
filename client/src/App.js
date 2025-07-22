@@ -1,11 +1,12 @@
-import React from 'react';
+const express = require("express");
+const cors = require("cors");
+const app = express();
 
-function App() {
-  return (
-    <div className="App">
-      <h1>Hello, React!</h1>
-    </div>
-  );
-}
+app.use(cors());
+app.use(express.json());
 
-export default App;
+// routes
+const postRoutes = require("./routes/posts");
+app.use("/api/posts", postRoutes);
+
+module.exports = app;
