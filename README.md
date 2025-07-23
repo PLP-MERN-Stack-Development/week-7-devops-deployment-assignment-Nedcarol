@@ -1,3 +1,30 @@
+# 🚀 MERN Blog App – Deployment & CI/CD (Assignment 8)
+
+This is a full-stack MERN blog application featuring CI/CD pipelines using GitHub Actions and deployed to Netlify (frontend) and Render (backend).
+
+---
+
+## 🔗 Live Links
+
+- 🌐 **Frontend (Netlify)**: [https://tiny-pika-bc8ae6.netlify.app](https://tiny-pika-bc8ae6.netlify.app)
+- 🚀 **Backend (Render)**: [https://week-7-devops-deployement-assignment-3n8g.onrender.com](https://week-7-devops-deployment-assignment-3n8g.onrender.com/)
+
+## ⚙️ Technologies Used
+
+- Frontend: React (Vite), HTML, CSS, JavaScript
+- Backend: Express.js, Node.js, MongoDB
+- CI/CD: GitHub Actions
+- Deployment: Netlify (Frontend), Render (Backend)
+
+---
+
+## 📦 Project Structure
+
+
+
+
+
+
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19957235&assignment_repo_type=AssignmentRepo)
 # Deployment and DevOps for MERN Applications
 
